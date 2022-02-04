@@ -1,0 +1,24 @@
+.stephen {
+    background-color: rgb(56, 165, 56);
+}
+
+.carlos {
+    background-color: #08681dc7;
+}
+
+.brittney {
+    background-color: black;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    height: 100%;
+}
+
+.parent {
+    /* height: 100vh; */
+    height: 100%;
+    width: 33.33vw;
+    float: left;
+}
